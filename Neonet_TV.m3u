@@ -200,19 +200,6 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
@@ -253,15 +240,6 @@ http://194.190.78.91:8080/pravdatv/index.m3u8
 http://194.190.78.91:8080/pskov/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://dimgrad24.ru/images/new/dimlogo-min.png" ,ДимГрад24 ТВ
 http://194.190.78.91:8080/dimgrad/index.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
@@ -574,14 +552,6 @@ https://de2.tprk.tv/live/ru_konnij_mir_hd/playlist.m3u8?login=449136951&sl=rxsTZ
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="OVH Telecom",Первый канал
 https://tv.tas-ix.tv/hls/ch_19.m3u8
 #EXTINF:-1 group-title="OVH Telecom",Россия 1
@@ -676,15 +646,6 @@ https://tv.tas-ix.tv/hls/ch_27.m3u8
 https://tv.tas-ix.tv/hls/ch_28.m3u8
 #EXTINF:-1 group-title="OVH Telecom",МАТЧ! ФУТБОЛ 2
 https://tv.tas-ix.tv/hls/ch_29.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
