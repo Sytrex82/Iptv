@@ -73,82 +73,18 @@ http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
 #EXTINF:-1 ,UA TV
 http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 ,UA TV HD
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 ,V-Comedy
-http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
-#EXTINF:-1 ,V-Megahit
-http://cdnua06.hls.tv/476/hls/ei5dxu67vb8wzcr4so3ql2f10mp9jakg/3981/stream.m3u8
-#EXTINF:-1 ,V-Premiere
-http://cdnua06.hls.tv/476/hls/vh3mwx4z7p1ekjqc2uil0osrtdg8by5n/3980/stream.m3u8
-#EXTINF:-1 ,V-Serial
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_serial
-#EXTINF:-1 ,TV Action
-http://cdnua06.hls.tv/476/hls/xpgdtwukj3blyc7oz508vn2msi9ahf6q/308/stream.m3u8
-#EXTINF:-1 ,TV100 HD
-http://cdnua06.hls.tv/476/hls/3m5p9lfdoycbhqtj74ku2iezrwn86gs1/311/stream.m3u8
-#EXTINF:-1 ,РўР’ World Kino
-http://cdnua06.hls.tv/476/hls/mwr8n6z0axeqbouj9l2fgkdvh5i4sp31/3684/stream.m3u8
-#EXTINF:-1 ,Bolt
-http://cdnua06.hls.tv/476/hls/pahum2nfj01xkglcz54r8vo396t7edqw/3690/stream.m3u8
-#EXTINF:-1 ,Bolt HD
-http://cdnua06.hls.tv/476/hls/ghjmswx25f9b7ozc1tuq30pliyv8drne/3963/stream.m3u8
-#EXTINF:-1 ,AMC
-http://cdnua06.hls.tv/476/hls/cfrmx4eus5don93zbhqlwt170a8yi2kv/4248/stream.m3u8
-#EXTINF:-1 ,Dorama HD
-http://cdnua06.hls.tv/476/hls/nwk6jmtuidbrq5sah4yc2x30vleg7pzo/4247/stream.m3u8
-#EXTINF:-1 ,Enter-Р¤С–Р»СЊРј
-http://cdnua06.hls.tv/476/hls/rk217bdpvjs8log4uen36t0aw5hcxfqm/56/stream.m3u8
-#EXTINF:-1 ,Film UA Drama HD
-http://cdnua06.hls.tv/476/hls/cahn3efj7k1odub652xt9pi4ls0myqr8/71/stream.m3u8
-#EXTINF:-1 ,Paramount Channel HD
-http://cdnua06.hls.tv/476/hls/j1w9epfq87ck36nxt0b4yuamz2sidl5v/4772/stream.m3u8
-#EXTINF:-1 ,Paramount Comedy
-http://cdnua06.hls.tv/476/hls/0qo4vwzsfn6y1dgkbeatlhx8pi32j79c/3910/stream.m3u8
-#EXTINF:-1 ,Epic Drama
-http://cdnua06.hls.tv/476/hls/s1t487pi6em0gl95jyhuwofrvcxd2nza/3912/stream.m3u8
-#EXTINF:-1 ,Film Box
-http://cdnua06.hls.tv/476/hls/xj01uep2in6v839kfsog47ztmybhd5qa/400/stream.m3u8
-#EXTINF:-1 ,FilmBox ArtHouse
-http://cdnua06.hls.tv/476/hls/zmjq1hnyg3ltevwiofk5p472a9rc08xu/231/stream.m3u8
-#EXTINF:-1 ,Hollywood HD
-http://cdnua06.hls.tv/476/hls/2asqejncklupw3m0or86vzyxg197b4it/262/stream.m3u8
-#EXTINF:-1 ,Star Cinema
-http://cdnua06.hls.tv/476/hls/fdeio3502sr1n8t4amxpbj7hq96lwgyz/3703/stream.m3u8
-#EXTINF:-1 ,Star Cinema HD
-http://cdnua06.hls.tv/476/hls/4relkdym6x395cw2fij17hpun0ogaqtb/3925/stream.m3u8
-#EXTINF:-1 ,Star Family
-http://cdnua06.hls.tv/476/hls/fgrpcks9d2ximw04te87jy53ol1qzbah/3687/stream.m3u8
-#EXTINF:-1 ,Star Family HD
-http://cdnua06.hls.tv/476/hls/85tmvydfe03nl94iposxcj1gwu2qkh7b/3996/stream.m3u8
-#EXTINF:-1 ,ZOOM
-http://cdnua06.hls.tv/476/hls/iwshr56jfazpmlxoc4eknvd0u8gbq9yt/94/stream.m3u8
-#EXTINF:-1 ,Р”РЅС–РїСЂРѕ TV HD
+#EXTINF:-1 ,Дніпро TV HD
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
-#EXTINF:-1 ,Р“Р РћРњРђР”РЎР¬РљР• Р†РќРўР•Р РђРљРўРР’РќР• РўР•Р›Р•Р‘РђР§Р•РќРќРЇ (Р›СѓС†СЊРє)
-https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,24 РљР°РЅР°Р»
+#EXTINF:-1 ,24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 ,ObozTV HD
-http://cdnua06.hls.tv/476/hls/l4ped5v63gn8usqwk21jcybz9i0rxhfm/3984/stream.m3u8
-#EXTINF:-1 ,РџСЂСЏРјС‹Р№
+#EXTINF:-1 ,Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,РџСЂР°РІРґР° РўРЈРў
+#EXTINF:-1 ,Правда ТУТ
 http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 ,РџСЂР°РІРґР° РўРЈРў HD (РљРёРµРІ)
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 ,РџСЂР°РІРґР° РўРЈРў Р›СЊРІРѕРІ HD
-http://95.67.12.158:8034?key=iptv.org.ua
-#EXTINF:-1 ,UРђ- РљСѓР»СЊС‚СѓСЂР°
-http://cdnua06.hls.tv/476/hls/3iqugp0w4cmy9o81vbn2jsfrd6e7l5zt/117/stream.m3u8
-#EXTINF:-1 ,РњРўРњ
-http://stream.ztv.zp.ua/hls/live.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,Nobel TV (Р”РЅРµРїСЂ)
-http://159.224.232.27:1234?key=iptv.org.ua
-#EXTINF:-1 ,РЈРљР РђРР†РќРђ 24
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 #EXTINF:-1 ,InRating TV
 https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+
+
 #EXTINF:-1 ,366 TV HD
 http://cdnua06.hls.tv/476/hls/3zi9d20mb8fuxynja461s75cotvqpkwg/4721/stream.m3u8
 #EXTINF:-1 ,РќР°РґРёСЏ/N.K.
@@ -235,59 +171,7 @@ http://stream.ntktv.ua/s/ntk/ntk.m3u8
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 #EXTINF:-1 ,ITV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
-#EXTINF:-1 ,РќРўРђ HD (Р›СЊРІС–РІ)
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 ,РќРўРђ Р›СЊРІРѕРІ
-http://95.67.106.10/hls/nta_ua_low/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,РЎС„РµСЂР° РўР’
-http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
-#EXTINF:-1 ,РЎРІР°СЂРѕР¶РёС‡Рё РўР’ UA HD
+#EXTINF:-1 ,Сварожичі UA HD
 http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1 ,РЎРІР°СЂРѕР¶РёС‡Рё РўР’
-http://tv.tv-project.com:1935/live/live1/playlist.m3u8
-#EXTINF:-1 ,РЎРІР°СЂРѕР¶РёС‡Рё СЂ
+#EXTINF:-1 ,Сварожичі
 http://tv.tv-project.com:1935/live/live2/playlist.m3u8
-#EXTINF:-1 ,Рњ1
-http://cdnua06.hls.tv/476/hls/3r6iedpomgun1z895l4cf0x72ahvbwtj/119/stream.m3u8
-#EXTINF:-1 ,Рњ1 HD
-http://cdnua06.hls.tv/476/hls/9axopt354y6jhzqur2le7bg1fskim0nd/4598/stream.m3u8
-#EXTINF:-1 ,Рњ2
-http://cdnua06.hls.tv/476/hls/io2nc5q8f0wthuekvprjm179d6bxasyg/120/stream.m3u8
-#EXTINF:-1 ,Рњ2 HD
-http://cdnua06.hls.tv/476/hls/4wjq3pebxsv0irhzy8kan5961m2codtg/4601/stream.m3u8
-#EXTINF:-1 ,Ethno Channel HD
-http://cdnua06.hls.tv/476/hls/6jwzidfvucqa2omys7lgbx83trp509e4/456/stream.m3u8
-#EXTINF:-1 ,EU Music HD
-http://cdnua06.hls.tv/476/hls/mbj9v2uzedsciq0r5ath1p47n3lwy68x/570/stream.m3u8
-#EXTINF:-1 ,InRating HD
-http://cdnua06.hls.tv/476/hls/n2djizgy37mu51lvcrpqawhbkfe9x80o/4751/stream.m3u8
-#EXTINF:-1 ,MTV Club
-http://cdnua06.hls.tv/476/hls/6zo4rxf7jc1mbvklq58dnhaei90pgw2t/264/stream.m3u8
-#EXTINF:-1 ,MTV Live HD
-http://cdnua06.hls.tv/476/hls/g1jaywrx7unipezsd4qloc860v2ft5bh/267/stream.m3u8
-#EXTINF:-1 ,Music 4Ever HD
-http://cdnua06.hls.tv/476/hls/goplasz3krfhin0dywm9u8162etvb4x5/3987/stream.m3u8
-#EXTINF:-1 ,Euronews
-http://cdnua06.hls.tv/476/hls/3xi9a6gdfbln8s0jhcrkvyo2wpt74e1q/215/stream.m3u8
-#EXTINF:-1 ,Р¤Р°РЅ РЎРїРѕСЂС‚.
-https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 ,Р¤Р°РЅ РЎРїРѕСЂС‚ 2.
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 ,Trace Sport Stars HD
-http://cdnua06.hls.tv/476/hls/nyvetufj9oi5pwm801sckdh7rl4z6gq2/303/stream.m3u8
-#EXTINF:-1 ,XSPORT
-http://cdnua06.hls.tv/476/hls/xgpw9ks6uhb870vy423fdijo5zc1qltn/576/stream.m3u8
-#EXTINF:-1 ,Setanta Sports Ukraine HD
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
-#EXTINF:-1 ,Setanta Sports + HD UA
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4314/stream.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-#EXTINF:-1 ,Eurosport 2 HD
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
-#EXTINF:-1 ,РџР›Р®РЎ РџР›Р®РЎ
-http://cdnua06.hls.tv/476/hls/wr89e7mczih5y1bdjqv3laon0fuxs2gp/136/stream.m3u8
-#EXTINF:-1 ,РџС–РєСЃРµР»СЊ
-http://cdnua06.hls.tv/476/hls/6atbs7gmyl9cv8d5knxw34e12jurp0if/135/stream.m3u8
-#EXTINF:-1 ,Nickelodeon
-http://cdnua06.hls.tv/476/hls/ty0fmrljgwh8zvd14e3puq7cbxkiosa2/278/stream.m3u8
