@@ -81,11 +81,7 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 ,Правда ТУТ
 http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 ,InRating TV
-https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:-1 ,366 TV HD
-http://cdnua06.hls.tv/476/hls/3zi9d20mb8fuxynja461s75cotvqpkwg/4721/stream.m3u8
-#EXTINF:-1 ,Надія.
+#EXTINF:-1 ,Надія
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 ,Сварожичі UA HD
 http://80.91.177.102:1935/live/live1/playlist.m3u8
