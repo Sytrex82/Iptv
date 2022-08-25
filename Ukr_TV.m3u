@@ -40,15 +40,19 @@ http://saveukraine.only4.tv/0178/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,ЕКСПРЕСО TV
 http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,UA TV
-http://saveukraine.only4.tv/6550/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,Р—Р°РїРѕСЂРѕР¶СЊРµ
 http://saveukraine.only4.tv/6555/video.m3u8?token=saveUkrain
+#EXTINF:-1 ,24 канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1 ,Перший городский
 http://saveukraine.only4.tv/6748/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџРµСЂРІС‹Р№ Р“РѕСЂРѕРґСЃРєРѕР№ (РћРґРµСЃСЃР°)
-http://saveukraine.only4.tv/6749/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџРµСЂРІС‹Р№ Р—Р°РїР°РґРЅС‹Р№ (Р›СЊРІРѕРІ)
-http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
+#EXTINF:-1 ,Надія
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 ,ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 ,ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 ,Most Video TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 ,Плюс Плюс HD
 http://saveukraine.only4.tv/6232/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,Плюс Плюс
@@ -71,9 +75,6 @@ http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
 http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 ,UA TV HD
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 ,I-UA TV HD
-http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
-http://cdnua06.hls.tv/476/hls/rjopkza5wv0m1qgdu38nleftcb4s729i/114/stream.m3u8
 #EXTINF:-1 ,V-Comedy
 http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
 #EXTINF:-1 ,V-Megahit
