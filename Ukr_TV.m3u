@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,UA РџРµСЂС€РёР№
+#EXTINF:-1 ,UA ПЕРШИЙ НАЦІОНАЛЬНИЙ
 http://saveukraine.only4.tv/0196/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РРЅС‚РµСЂ HD
+#EXTINF:-1 ,ІНТЕР HD
 http://saveukraine.only4.tv/1153/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,1+1 HD
 http://saveukraine.only4.tv/5582/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,1+1
 http://saveukraine.only4.tv/0151/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,1+1 РњРµР¶РґСѓРЅР°СЂРѕРґРЅС‹Р№
+#EXTINF:-1 ,1+1 Інтернаціональний
 http://saveukraine.only4.tv/0195/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,2+2
 http://cdnua06.hls.tv/476/hls/7j0xwtqvo24c5usgldpf6138i9rbnyez/3305/stream.m3u8
@@ -16,50 +16,46 @@ http://saveukraine.only4.tv/5605/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,ICTV
 http://saveukraine.only4.tv/0159/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,ICTV Ukraine
-http://saveukraine.only4.tv/6650/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РќРѕРІС‹Р№ РєР°РЅР°Р» HD
 http://saveukraine.only4.tv/5603/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РќРѕРІС‹Р№ РєР°РЅР°Р»
-http://saveukraine.only4.tv/0194/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РЎРўР‘ HD
+#EXTINF:-1 ,Новий
 http://saveukraine.only4.tv/5604/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РЎРўР‘
+#EXTINF:-1 ,СТБ
 http://saveukraine.only4.tv/0160/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,5 РєР°РЅР°Р»
+#EXTINF:-1 ,5 Канал
 http://saveukraine.only4.tv/0165/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РЈРЅРёР°РЅ РўР’ HD
+#EXTINF:-1 ,УНІАН HD
 http://saveukraine.only4.tv/7698/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РЈРЅРёР°РЅ РўР’
+#EXTINF:-1 ,УНІАН
 http://saveukraine.only4.tv/6160/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РЎРѕРЅС†Рµ
+#EXTINF:-1 ,Сонце
 http://saveukraine.only4.tv/0183/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,Р Р°РґР°
+#EXTINF:-1 ,Рада
 http://saveukraine.only4.tv/0186/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџСЂСЏРјРѕР№ HD
+#EXTINF:-1 ,Прямий HD
 http://saveukraine.only4.tv/0199/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,News 24
 http://saveukraine.only4.tv/5573/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџСЂР°РІРґР°РўРЈРў
+#EXTINF:-1 ,ПРАВДА ТУТ
 http://saveukraine.only4.tv/0178/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,Р•СЃРїСЂРµСЃРѕ TV
+#EXTINF:-1 ,ЕКСПРЕСО TV
 http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,UA TV
 http://saveukraine.only4.tv/6550/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,Р—Р°РїРѕСЂРѕР¶СЊРµ
 http://saveukraine.only4.tv/6555/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџРµСЂРІС‹Р№ Р“РѕСЂРѕРґСЃРєРѕР№ (РљСЂРёРІРѕР№ Р РѕРі)
+#EXTINF:-1 ,Перший городский
 http://saveukraine.only4.tv/6748/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,РџРµСЂРІС‹Р№ Р“РѕСЂРѕРґСЃРєРѕР№ (РћРґРµСЃСЃР°)
 http://saveukraine.only4.tv/6749/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,РџРµСЂРІС‹Р№ Р—Р°РїР°РґРЅС‹Р№ (Р›СЊРІРѕРІ)
 http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџР»СЋСЃРџР»СЋСЃ HD
+#EXTINF:-1 ,Плюс Плюс HD
 http://saveukraine.only4.tv/6232/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџР»СЋСЃРџР»СЋСЃ
+#EXTINF:-1 ,Плюс Плюс
 http://saveukraine.only4.tv/6140/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџРёРєСЃРµР»СЊ HD
+#EXTINF:-1 ,Піксель HD
 http://saveukraine.only4.tv/1166/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РџРёРєСЃРµР»СЊ
+#EXTINF:-1 ,Піксель
 http://saveukraine.only4.tv/0166/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,Nickelodeon HD
 http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
@@ -70,10 +66,6 @@ http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,Niki Junior HD
 http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
 #EXTINF:-1 ,Niki Kids HD
-http://saveukraine.only4.tv/5516/video.m3u8?token=saveUkrain
-#EXTINF:-1 ,РўР•Рў
-http://cdnua06.hls.tv/476/hls/8hug3xrmnfjpsy69el2t4bvc7z5iwo1q/150/stream.m3u8
-#EXTINF:-1 ,UA РћРґРµСЃСЃР°
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
 #EXTINF:-1 ,UA TV
 http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
@@ -81,9 +73,6 @@ http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 ,I-UA TV HD
 http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
-#EXTINF:-1 ,Рљ1r
-http://cdnua06.hls.tv/476/hls/at4u7cmzdxo56hgleyvnk81wijfprqb3/113/stream.m3u8
-#EXTINF:-1 ,Рљ2
 http://cdnua06.hls.tv/476/hls/rjopkza5wv0m1qgdu38nleftcb4s729i/114/stream.m3u8
 #EXTINF:-1 ,V-Comedy
 http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
