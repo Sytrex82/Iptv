@@ -56,10 +56,6 @@ http://91.213.59.156/play/32/index.m3u8
 http://91.213.59.156/play/19/index.m3u8
 
 
-#EXTINF:-1 group-title="НАЦІОНАЛЬНІ" tvg-id="epik-drama" tvg-name="Epic Drama HD" tvg-logo="https://iptvxcdn.ml/epik-drama.png",Epic Drama HD
-http://91.213.59.156/play/48/index.m3u8
-
-
 
 #EXTINF:-1 group-title="НАЦІОНАЛЬНІ" tvg-id="lubimoe-kino" tvg-name="Наше кіно" tvg-logo="https://iptvxcdn.ml/lubimoe-kino.png", Наше кіно
 http://185.235.187.10:8888/play/a01j/index.m3u8
