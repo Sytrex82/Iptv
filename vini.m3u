@@ -1,2 +1,130 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info",Оновлення плейлиста (28.08.2022)
+#EXTINF:-1 group-title="Info",Оновлення плейлиста (02.09.2022)
+
+
+#EXTINF:-1 group-title="Малятко ТВ" tvg-id="2203" tvg-name="Малятко ТВ" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
+http://91.213.59.156/play/85/index.m3u8
+#EXTINF:-1 group-title="Малятко ТВ" tvg-id="2203" tvg-name="Малятко ТВ" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
+http://iptv.prosto.tv:7000/ch76/video.m3u8
+#EXTINF:-1 group-title="Малятко ТВ" tvg-id="2203" tvg-name="Малятко ТВ" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
+
+
+
+
+#EXTINF:-1 group-title="Плюс Плюс" tvg-logo="https://iptvxcdn.ml/plusplus.png",Плюс Плюс
+http://iptv.prosto.tv:7000/ch66/video.m3u8
+#EXTINF:-1 group-title="Плюс Плюс" tvg-logo="https://iptvxcdn.ml/plusplus.png",Плюс Плюс
+http://91.213.59.156/play/21/index.m3u8
+#EXTINF:-1 group-title="Плюс Плюс" tvg-logo="https://iptvxcdn.ml/plusplus.png",Плюс Плюс
+http://saveukraine.only4.tv/6232/video.m3u8?token=saveUkrain
+#EXTINF:-1 group-title="Плюс Плюс" tvg-logo="https://iptvxcdn.ml/plusplus.png",Плюс Плюс
+http://195.189.60.253/054/index.m3u8
+#EXTINF:-1 group-title="Плюс Плюс" tvg-logo="https://iptvxcdn.ml/plusplus.png",Плюс Плюс
+
+
+
+
+#EXTINF:-1 group-title="ПIКСЕЛЬ",ПIКСЕЛЬ
+http://iptv.prosto.tv:7000/ch67/video.m3u8
+#EXTINF:-1 group-title="ПIКСЕЛЬ",ПIКСЕЛЬ
+http://91.213.59.156/play/67/index.m3u8
+#EXTINF:-1 group-title="ПIКСЕЛЬ",ПIКСЕЛЬ
+http://195.189.60.253/020/index.m3u8
+#EXTINF:-1 group-title="ПIКСЕЛЬ",ПIКСЕЛЬ
+
+
+
+
+#EXTINF:-1 group-title="NIKI Junior" tvg-id="3334" tvg-name="NIKI Junior HD UA" tvg-logo="http://epg.it999.ru/img/3334.png",NIKI Junior  UA
+http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
+#EXTINF:-1 group-title="NIKI Junior" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
+http://91.213.59.156/play/89/index.m3u8
+#EXTINF:-1 group-title="NIKI Junior" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
+http://iptv.prosto.tv:7000/ch72/video.m3u8
+#EXTINF:-1 group-title="NIKI Junior" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
+http://195.189.60.253/126/index.m3u8
+#EXTINF:-1 group-title="NIKI Junior" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
+http://195.189.60.253/164/index.m3u8
+#EXTINF:-1 group-title="NIKI Junior" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
+
+
+
+#EXTINF:-1 group-title="Niki Kids" tvg-id="NIKI Kids" tvg-name="Niki Kids HD" tvg-logo="http://epg.do.am/logo5/niki-kids.png",Niki Kids
+http://91.213.59.156/play/90/index.m3u8
+#EXTINF:-1 group-title="Niki Kids" tvg-id="NIKI Kids" tvg-name="Niki Kids HD" tvg-logo="http://epg.do.am/logo5/niki-kids.png",Niki Kids
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1 group-title="Niki Kids" tvg-id="NIKI Kids" tvg-name="Niki Kids HD" tvg-logo="http://epg.do.am/logo5/niki-kids.png",Niki Kids
+http://iptv.prosto.tv:7000/ch75/video.m3u8
+#EXTINF:-1 group-title="Niki Kids" tvg-id="NIKI Kids" tvg-name="Niki Kids HD" tvg-logo="http://epg.do.am/logo5/niki-kids.png",Niki Kids
+http://saveukraine.only4.tv/5516/video.m3u8?token=saveUkrain
+#EXTINF:-1 group-title="Niki Kids" tvg-id="NIKI Kids" tvg-name="Niki Kids HD" tvg-logo="http://epg.do.am/logo5/niki-kids.png",Niki Kids
+http://saveukraine.only4.tv/5516/video.m3u8?token=saveUkrain
+#EXTINF:-1 group-title="Niki Kids" tvg-id="NIKI Kids" tvg-name="Niki Kids HD" tvg-logo="http://epg.do.am/logo5/niki-kids.png",Niki Kids
+http://195.189.60.253/116/index.m3u8
+#EXTINF:-1 group-title="Niki Kids" tvg-id="NIKI Kids" tvg-name="Niki Kids HD" tvg-logo="http://epg.do.am/logo5/niki-kids.png",Niki Kids
+#EXTINF:-1 group-title="Test" tvg-id="ффф" tvg-name="Зоряний" tvg-logo="ффф" , Test3
+http://195.189.60.253/163/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Nickelodeon" tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://epg.do.am/logo/nickhd.png",Nickelodeon
+http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
+#EXTINF:-1 group-title="Nickelodeon" tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://epg.do.am/logo/nickhd.png",Nickelodeon
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:-1 group-title="Nickelodeon" tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://epg.do.am/logo/nickhd.png",Nickelodeon
+
+
+
+
+
+#EXTINF:-1 group-title="Nick jr." tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="https://iptvxcdn.ml/nick-jr.png",Nick jr.
+http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
+#EXTINF:-1 group-title="Nick jr." tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="https://iptvxcdn.ml/nick-jr.png",Nick jr.
+http://iptv.prosto.tv:7000/ch69/video.m3u8
+#EXTINF:-1 group-title="Nick jr." tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="https://iptvxcdn.ml/nick-jr.png",Nick jr.
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="nicktoons",nicktoons
+http://iptv.prosto.tv:7000/ch70/video.m3u8
+#EXTINF:-1 group-title="nicktoons",nicktoons
+
+
+
+
+
+
+#EXTINF:-1 group-title="TiJi",TiJi
+http://iptv.prosto.tv:7000/ch73/video.m3u8
+#EXTINF:-1 group-title="TiJi",TiJi
+http://91.213.59.156/play/76/index.m3u8
+#EXTINF:-1 group-title="TiJi",TiJi
+
+
+#EXTINF:-1 group-title="Da Vinci Kids" tvg-id="ффф" tvg-name="Зоряний" tvg-logo="ффф" , Da Vinci Kids
+http://195.189.60.253/053/index.m3u8
+#EXTINF:-1 group-title="Da Vinci Kids" tvg-id="ффф" tvg-name="Зоряний" tvg-logo="ффф" , Da Vinci Kids
+http://91.213.59.156/play/44/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Test" tvg-id="ффф" tvg-name="Зоряний" tvg-logo="ффф" ,  Дитячий
+https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ффф" tvg-name="Зоряний" tvg-logo="ффф" , Детский Мир
+http://91.213.59.156/play/91/index.m3u8
+
+
+
+
+
+
+
+
