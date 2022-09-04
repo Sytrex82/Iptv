@@ -302,7 +302,7 @@ http://myott.top/stream/L8UX4F5IIF/311.m3u8
 
 #EXTINF:-1 group-title="Дитячі" tvg-id="2203" tvg-name="Малятко ТВ" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
 http://91.213.59.156/play/85/index.m3u8
-#EXTINF:-1 group-title="Дитячі ТВ" tvg-id="2203" tvg-name="Малятко ТВ" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
+#EXTINF:-1 group-title="Дитячі" tvg-id="2203" tvg-name="Малятко ТВ" tvg-logo="http://epg.it999.ru/img/2203.png",Малятко ТВ
 http://iptv.prosto.tv:7000/ch76/video.m3u8
 
 
@@ -336,7 +336,7 @@ http://91.213.59.156/play/89/index.m3u8
 http://iptv.prosto.tv:7000/ch72/video.m3u8
 #EXTINF:-1 group-title="Дитячі" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
 http://195.189.60.253/126/index.m3u8
-#EXTINF:-1 group-title="NДитячі" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
+#EXTINF:-1 group-title="Дитячі" tvg-id="NIKI Junior" tvg-name="Niki Junior HD" tvg-logo="http://epg.do.am/logo5/niki-junior.png",Niki Junior
 http://195.189.60.253/164/index.m3u8
 
 
