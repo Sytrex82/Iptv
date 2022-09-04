@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Info",Оновлення плейлиста (30.08.2022)
+#EXTINF:-1 group-title="Info",Оновлення плейлиста (04.9.2022)
 
 #EXTINF:-1 group-title="НАЦІОНАЛЬНІ" tvg-name="1+1" tvg-logo="https://iptvxcdn.ml/1plus1.png" , 1+1  
 http://91.213.59.156/play/22/index.m3u8
@@ -217,3 +217,82 @@ http://tv.tv-project.com:1935/live/live2/playlist.m3u8
 #EXTINF:-1 group-title="НАЦІОНАЛЬНІ" tvg-id="svarozhichi" tvg-name="Сварожичі" tvg-logo="https://iptvxcdn.ml/svarozhichi.png" , Сварожичі HD
 http://80.91.177.102:1935/live/live1/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="1371" tvg-logo="http://epg.it999.ru/img/1371.png" , Amedia 1
+http://myott.top/stream/L8UX4F5IIF/117.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="amedia2" tvg-logo="https://iptvxcdn.ml/amedia2.png" , Amedia 2
+https://sc.id-tv.kz/A2_36_37.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="amedia-hit" tvg-logo="https://iptvxcdn.ml/amedia-hit.png" , Amedia Hit
+http://myott.top/stream/L8UX4F5IIF/162.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="amedia1" tvg-logo="https://iptvxcdn.ml/amedia1.png" , Amedia Premium
+http://myott.top/stream/L8UX4F5IIF/151.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-logo="https://backustv.ru/img/ch-1.jpg" group-title="BACKUSTV",BACKUSTV 
+http://stream.backustv.ru/content/39837/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-id="Bollywood HD" tvg-name="Bollywood" tvg-logo="http://epg.do.am/logo/bollywood.png",Bollywood
+http://195.189.60.253/102/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-logo="http://epg.it999.ru/img/2138.png",BOLT
+http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-logo="http://epg.do.am/logo/cinema.png",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-logo="http://epg.do.am/logo/cinema.png",Cinema+
+http://195.189.60.253/115/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-id="2181" tvg-name="FilmBox" tvg-logo="http://epg.it999.ru/img/2181.png",Filmbox
+http://188.93.94.140/filmbox/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-id="ффф" tvg-name="Зоряний" tvg-logo="ффф" , Flix Snip
+http://195.189.60.253/087/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="fox" tvg-logo="https://iptvxcdn.ml/fox.png" , Fox
+http://myott.top/stream/L8UX4F5IIF/182.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-logo="http://epg.do.am/logo/foxlife.png",Fox Life
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5076
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="http://epg.do.am/logo/hollywood.png",Hollywood
+http://37.17.14.149:8903/play/a009
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-id="" tvg-name="Paramount Comedi" tvg-logo="",Paramount Comedi
+http://91.213.59.156/play/18/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали",SCi-Fi
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5061
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-id="TV1000" tvg-name="TV1000 HD" tvg-logo="http://epg.do.am/logo2/tv1000.png",TV 1000 HD
+http://91.213.59.156/play/50/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="tv1000-action" tvg-logo="https://iptvxcdn.ml/tv1000-action.png" , TV1000 Action
+http://91.213.59.156/play/49/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="tv1000-worldkino" tvg-logo="https://iptvxcdn.ml/tv1000-worldkino.png" , TV1000 World Kino
+http://91.213.59.156/play/46/index.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="tv1000-russkoe-kino" tvg-logo="https://iptvxcdn.ml/tv1000-russkoe-kino.png" , TV1000 Русское кино
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="" tvg-logo="" ,VIP Family HD
+http://188.93.94.140/tv5/playlist.m3u8?token=rostik_tv
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="" tvg-logo="" ,VIP HIT HD
+http://188.93.94.140/healthtv/playlist.m3u8?token=rostik_tv
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="vip-comedy" tvg-logo="https://iptvxcdn.ml/vip-comedy.png" , VIP Comedy
+http://myott.top/stream/L8UX4F5IIF/201.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="vip-megahit" tvg-logo="https://iptvxcdn.ml/vip-megahit.png" , VIP Megahit
+http://myott.top/stream/L8UX4F5IIF/200.m3u8
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="vip-premiere" tvg-logo="https://iptvxcdn.ml/vip-premiere.png" , VIP Premiere 
+http://myott.top/stream/L8UX4F5IIF/202.m3u8
+
+
+#EXTINF:-1 group-title="Фільмові канали" tvg-name="vip-serial" tvg-logo="https://iptvxcdn.ml/vip-serial.png" , VIP Serial
+http://myott.top/stream/L8UX4F5IIF/311.m3u8
