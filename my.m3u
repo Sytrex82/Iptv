@@ -283,7 +283,7 @@ http://saveukraine.only4.tv/7835/video.m3u8?token=l2pv0UjiRy
 
 
 
-#EXTINF:-1 group-title="Фільмові канали" tvg-logo="https://backustv.ru/img/ch-1.jpg" group-title="BACKUSTV",BACKUSTV 
+#EXTINF:-1 group-title="Фільмові канали" tvg-logo="https://backustv.ru/img/ch-1.jpg",BACKUSTV 
 http://stream.backustv.ru/content/39837/index.m3u8
 
 #EXTINF:-1 group-title="Фільмові канали" tvg-id="Bollywood HD" tvg-name="Bollywood" tvg-logo="http://epg.do.am/logo/bollywood.png",Bollywood
