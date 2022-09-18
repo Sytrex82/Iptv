@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 ,1+1
+http://195.189.60.253:8000/001/index.m3u8
+#EXTINF:-1 ,2+2
+http://195.189.60.253:8000/031/index.m3u8
+#EXTINF:-1 ,2+2 HD
+http://195.189.60.253:8000/153/index.m3u8
+#EXTINF:-1 ,Новий канал HD
+http://195.189.60.253:8000/016/index.m3u8
+#EXTINF:-1 ,ТЕТ
+http://195.189.60.253:8000/008/index.m3u8
+#EXTINF:-1 ,ТЕТ HD
+http://195.189.60.253:8000/152/index.m3u8
+#EXTINF:-1 ,ICTV
+http://195.189.60.253:8000/017/index.m3u8
+#EXTINF:-1 ,Інтер HD
+http://195.189.60.253:8000/003/index.m3u8
+#EXTINF:-1 ,НТН HD
+http://195.189.60.253:8000/004/index.m3u8
+#EXTINF:-1 ,К1
+http://195.189.60.253:8000/005/index.m3u8
+#EXTINF:-1 ,К2
+http://195.189.60.253:8000/011/index.m3u8
+#EXTINF:-1 ,Ентер фільм
+http://195.189.60.253:8000/019/index.m3u8
+#EXTINF:-1 ,TV1000 CEE
+http://195.189.60.253:8000/130/index.m3u8
+#EXTINF:-1 ,TV1000 Action CEE
+http://195.189.60.253:8000/122/index.m3u8
+#EXTINF:-1 ,VIP Megahit CEE
+http://195.189.60.253:8000/120/index.m3u8
+#EXTINF:-1 ,VIP Comedy CEE
+http://195.189.60.253:8000/074/index.m3u8
+#EXTINF:-1 ,TV1000 World Kino
+http://195.189.60.253:8000/073/index.m3u8
+#EXTINF:-1 ,Hollywood HD
+http://195.189.60.253:8000/050/index.m3u8
+#EXTINF:-1 ,Paramount Comedy
+http://195.189.60.253:8000/071/index.m3u8
+#EXTINF:-1 ,Epic Drama HD
+http://195.189.60.253:8000/118/index.m3u8
+#EXTINF:-1 ,Болт
+http://195.189.60.253:8000/058/index.m3u8
+#EXTINF:-1 ,Болт HD
+http://195.189.60.253:8000/176/index.m3u8
+#EXTINF:-1 ,FilmUa Drama HD
+http://195.189.60.253:8000/034/index.m3u8
+#EXTINF:-1 ,FilmUa Drama
+http://195.189.60.253:8000/150/index.m3u8
+#EXTINF:-1 ,Правда ТУТ
+http://195.189.60.253:8000/162/index.m3u8
+#EXTINF:-1 ,Кіно Казка
+http://195.189.60.253:8000/133/index.m3u8
+#EXTINF:-1 ,Bollywood HD
+http://195.189.60.253:8000/102/index.m3u8
+#EXTINF:-1 ,ТВС
+http://195.189.60.253:8000/098/index.m3u8
+#EXTINF:-1 ,Бігуді
+http://195.189.60.253:8000/061/index.m3u8
+#EXTINF:-1 ,Сонце
+http://195.189.60.253:8000/060/index.m3u8
+#EXTINF:-1 ,ОЦЕ
+http://195.189.60.253:8000/062/index.m3u8
+#EXTINF:-1 ,Уніан
+http://195.189.60.253:8000/029/index.m3u8
+#EXTINF:-1 ,5
+http://195.189.60.253:8000/006/index.m3u8
+#EXTINF:-1 ,24 Канал
+http://195.189.60.253:8000/063/index.m3u8
+#EXTINF:-1 ,Еспресо
+http://195.189.60.253:8000/032/index.m3u8
+#EXTINF:-1 ,Прямий
+http://195.189.60.253:8000/033/index.m3u8
+#EXTINF:-1 ,Прямий HD
+http://195.189.60.253:8000/135/index.m3u8
+#EXTINF:-1 ,Рада
+http://195.189.60.253:8000/091/index.m3u8
+#EXTINF:-1 ,Ost West
+http://195.189.60.253:8000/078/index.m3u8
+#EXTINF:-1 ,Київ
+http://195.189.60.253:8000/093/index.m3u8
+#EXTINF:-1 ,OBOZ TV
+http://195.189.60.253:8000/041/index.m3u8
+#EXTINF:-1 ,WORLD NEWS
+http://195.189.60.253:8000/042/index.m3u8
+#EXTINF:-1 ,Візит
+http://195.189.60.253:8000/007/index.m3u8
+#EXTINF:-1 ,Масон
+http://195.189.60.253:8000/010/index.m3u8
+#EXTINF:-1 ,Перший
+http://195.189.60.253:8000/015/index.m3u8
+#EXTINF:-1 ,Суспільне Культура HD
+http://195.189.60.253:8000/002/index.m3u8
+#EXTINF:-1 ,Суспільне Крим
+http://195.189.60.253:8000/012/index.m3u8
+#EXTINF:-1 ,Мега
+http://195.189.60.253:8000/023/index.m3u8
+#EXTINF:-1 ,ZOOM
+http://195.189.60.253:8000/021/index.m3u8
+#EXTINF:-1 ,Закон ТБ
+http://195.189.60.253:8000/022/index.m3u8
+#EXTINF:-1 ,Setanta Sports +
+http://195.189.60.253:8000/097/index.m3u8
+#EXTINF:-1 ,XSport
+http://195.189.60.253:8000/035/index.m3u8
+#EXTINF:-1 ,XSport + HD
+http://195.189.60.253:8000/105/index.m3u8
+#EXTINF:-1 ,Перший автомобільний
+http://195.189.60.253:8000/100/index.m3u8
+#EXTINF:-1 ,Трофей
+http://195.189.60.253:8000/079/index.m3u8
+#EXTINF:-1 ,Дача
+http://195.189.60.253:8000/066/index.m3u8
+#EXTINF:-1 ,Наука
+http://195.189.60.253:8000/046/index.m3u8
+#EXTINF:-1 ,Європа
+http://195.189.60.253:8000/068/index.m3u8
+#EXTINF:-1 ,Тера
+http://195.189.60.253:8000/076/index.m3u8
+#EXTINF:-1 ,NIKI Kids
+http://195.189.60.253:8000/116/index.m3u8
+#EXTINF:-1 ,NIKI Kids HD
+http://195.189.60.253:8000/163/index.m3u8
+#EXTINF:-1 ,NIKI Junior HD
+http://195.189.60.253:8000/164/index.m3u8
+#EXTINF:-1 ,NIKI Junior
+http://195.189.60.253:8000/126/index.m3u8
+#EXTINF:-1 ,Піксель
+http://195.189.60.253:8000/020/index.m3u8
+#EXTINF:-1 ,Малятко
+http://195.189.60.253:8000/051/index.m3u8
+#EXTINF:-1 ,Плюс плюс
+http://195.189.60.253:8000/054/index.m3u8
+#EXTINF:-1 ,Da Vinci Kids
+http://195.189.60.253:8000/053/index.m3u8
+#EXTINF:-1 ,ЕСО TV
+http://195.189.60.253:8000/047/index.m3u8
+#EXTINF:-1 ,EU Music
+http://195.189.60.253:8000/049/index.m3u8
+#EXTINF:-1 ,М1
+http://195.189.60.253:8000/059/index.m3u8
+#EXTINF:-1 ,М2
+http://195.189.60.253:8000/048/index.m3u8
+#EXTINF:-1 ,4ever Music
+http://195.189.60.253:8000/040/index.m3u8
+#EXTINF:-1 ,Дискавери
+http://195.189.60.253:8000/064/index.m3u8
+#EXTINF:-1 ,Viasat History
+http://195.189.60.253:8000/081/index.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://195.189.60.253:8000/075/index.m3u8
+#EXTINF:-1 ,Viasat Explore
+http://195.189.60.253:8000/080/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://195.189.60.253:8000/084/index.m3u8
+#EXTINF:-1 ,Discovery Science
+http://195.189.60.253:8000/124/index.m3u8
+#EXTINF:-1 ,H2 HD
+http://195.189.60.253:8000/131/index.m3u8
+#EXTINF:-1 ,TLC
+http://195.189.60.253:8000/096/index.m3u8
