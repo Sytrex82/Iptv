@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-
 #EXTINF:0 group-title="Кино" tvg-id="566" tvg-logo="http://epg.it999.ru/img/566.png" tvg-rec="7",Кинопремьера HD
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DYNVEP85PG85WK/224/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="566" tvg-logo="http://epg.it999.ru/img/566.png" tvg-rec="3",Кинопремьера HD orig
